@@ -1,6 +1,6 @@
 # CTF Universitaria
 
-![Logo](../logo.png)
+![Logo](https://github.com/CTF-Universitaria/.github/blob/main/logo.png)
 
 ## Descrição
 
