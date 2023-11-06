@@ -1,5 +1,7 @@
 # CTF Universitaria
 
+![Logo](../logo.png)
+
 ## Descrição
 
 
