@@ -10,7 +10,7 @@
 
 ## Contato
 
-https://ctf-universitaria.com
+https://ctf-universitaria.com.br
 
 ## Código de conduta
 
